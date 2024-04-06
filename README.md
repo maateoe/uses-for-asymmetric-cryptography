@@ -21,13 +21,30 @@ The objective of this project is to showcase the practical application of SSH ke
 Genrate SSH Public and Private the Keys: <br/>
 <img src="https://imgur.com/MmXcNnM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Description <br/>
+<br />
+<br />
+<br />
+<br />
 <br />
 Genrate SSL Public and Private the Keys:  <br/>
 <img src="https://imgur.com/7CNeLx9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+Description 
 Encrypting Password File:  <br/>
 <img src="https://imgur.com/VtrIUyb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+ 
 </p>
 
 <!--
