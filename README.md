@@ -18,32 +18,29 @@ The objective of this project is to showcase the practical application of SSH ke
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Genrate SSH Public and Private the Keys: <br/>
+Genrating SSH Key Pair: <br/>
 <img src="https://imgur.com/MmXcNnM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Description <br/>
+Using the rsa type key, we genreate a key pair that will be used later for registering Git signing.
 <br />
 <br />
 <br />
-<br />
-<br />
-Genrate SSL Public and Private the Keys:  <br/>
+Generating OpenSSL Key Pair:  <br/>
 <img src="https://imgur.com/7CNeLx9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Utilizing OpenSSL to generate a key pair that will be used encrypt and decrypt a text file with a password.
 <br />
 <br />
-<br />
-<br />
-<br />
-Description 
-Encrypting Password File:  <br/>
+Encrypting Text File:  <br/>
 <img src="https://imgur.com/VtrIUyb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+The text file is used as our input and we use public key to encrypt. The output will be an encrypted text file.
 <br />
 <br />
+Encrypting Text File:  <br/>
+<img src="https://imgur.com/VtrIUyb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-<br />
+The text file is used as our input and we use public key to encrypt. The output will be an encrypted text file.
  
 </p>
 
