@@ -1,4 +1,4 @@
-<h1>SSH Keys Project -  Authentication, Encryption and Integrity</h1>
+<h1>Privaye and Public Keys Project -  Authentication, Encryption and Integrity</h1>
 
 
 <h2>Description</h2>
