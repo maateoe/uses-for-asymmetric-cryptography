@@ -28,7 +28,8 @@ Using the rsa type key, we genreate a key pair that will be used later for regis
 Generating OpenSSL Key Pair:  <br/>
 <img src="https://imgur.com/7CNeLx9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Utilizing OpenSSL to generate a key pair that will be used encrypt and decrypt a text file with a password.
+Utilizing OpenSSL to generate a key pair that will be used encrypt
+<br />and decrypt a text file with a password.
 <br />
 <br />
 Encrypting Text File:  <br/>
@@ -37,10 +38,16 @@ Encrypting Text File:  <br/>
 The text file is used as our input and we use public key to encrypt. The output will be an encrypted text file.
 <br />
 <br />
-Encrypting Text File:  <br/>
-<img src="https://imgur.com/VtrIUyb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Decrypting Text File:  <br/>
+<img src="https://imgur.com/n2DpeVQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-The text file is used as our input and we use public key to encrypt. The output will be an encrypted text file.
+Using the generated private key to decrypt. The output will be the decrypted text file.
+<br />
+<br />
+Decrypting Text File:  <br/>
+<img src="https://imgur.com/n2DpeVQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Using the generated private key to decrypt. The output will be the decrypted text file.
  
 </p>
 
