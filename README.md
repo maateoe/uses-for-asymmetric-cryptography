@@ -44,11 +44,25 @@ Decrypting Text File:  <br/>
 Using the generated private key to decrypt. The output will be the decrypted text file.
 <br />
 <br />
-Decrypting Text File:  <br/>
+GIT:  <br/>
 <img src="https://imgur.com/ModrBu0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Using the generated private key to decrypt. The output will be the decrypted text file.
- 
+<br />
+<br />
+AddKey+retieve:  <br/>
+<img src="https://imgur.com/LS0x56t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Add Signers:  <br/>
+<img src="https://imgur.com/GxRkmzO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Commit Sign test:  <br/>
+<img src="https://imgur.com/TmNCHQI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 </p>
 
 <!--
