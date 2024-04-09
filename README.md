@@ -45,7 +45,7 @@ Using the generated private key to decrypt. The output will be the decrypted tex
 <br />
 <br />
 Decrypting Text File:  <br/>
-<img src="https://imgur.com/n2DpeVQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ModrBu0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Using the generated private key to decrypt. The output will be the decrypted text file.
  
