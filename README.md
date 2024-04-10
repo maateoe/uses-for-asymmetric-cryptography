@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The objective of this project is to showcase the practical application of SSH keys in enhancing security measures. Focused on utilizing SSH Key Pair in conjunction with OpenSSL, the project aims to illustrate encryption and decryption techniques applied to a text file containing sensitive data. Additionally, to ensure data integrity, the project incorporates a Git commit mechanism. Through this, the project aims to provide a comprehensive demonstration of leveraging SSH keys for improving security protocols. 
+The objective of this project is to showcase the practical application of cryptographic keys in enhancing security measures. Focused on utilizing SSH Key pair in conjunction with OpenSSL key pair, the project aims to illustrate encryption and decryption techniques applied to a text file containing sensitive data. Additionally, to ensure data integrity, the project incorporates a Git commit mechanism. Through this, the project aims to provide a comprehensive demonstration of using SSH keys for improving security. 
 <br />
 
 <h2>Utilities Used</h2>
@@ -54,11 +54,14 @@ Configuring global email and name for Git repository.
 Adding SSH Key Pair:  <br/>
 <img src="https://imgur.com/LS0x56t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Loading private key to the agent. Then, retreiving public key to be used. 
+Loading private key to the agent. Then, retreiving public key to be used in next step. 
 <br />
 <br />
 Add Signers:  <br/>
 <img src="https://imgur.com/GxRkmzO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Setting the public key to be recognized to be as a valid key. Adds the key to a new file called 
+<br />'allowed signer' and will configure GPG signing for allowed SSH signer.
 <br />
 <br />
 Commit Sign test:  <br/>
