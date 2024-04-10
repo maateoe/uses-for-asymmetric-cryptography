@@ -21,7 +21,7 @@ The objective of this project is to showcase the practical application of SSH ke
 Genrating SSH Key Pair: <br/>
 <img src="https://imgur.com/MmXcNnM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Using the rsa type key, we genreate a key pair that will be used later for registering Git signing.
+Using the rsa type key, I genreate a key pair that will be used later for registering Git signing.
 <br />
 <br />
 <br />
@@ -35,23 +35,26 @@ Utilizing OpenSSL to generate a key pair that will be used encrypt
 Encrypting Text File:  <br/>
 <img src="https://imgur.com/VtrIUyb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-The text file is used as our input and we use public key to encrypt. The output will be an encrypted text file.
+Using public key to encrypt file. The output will be an encrypted text file.
 <br />
 <br />
 Decrypting Text File:  <br/>
 <img src="https://imgur.com/n2DpeVQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Using the generated private key to decrypt. The output will be the decrypted text file.
+Using the generated private key to decrypt file. The output will be the decrypted text file.
 <br />
 <br />
-GIT:  <br/>
+Configuring Global User Credentials and Changing Signing Key Format:  <br/>
 <img src="https://imgur.com/ModrBu0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Using the generated private key to decrypt. The output will be the decrypted text file.
+Configuring global email and name for Git repository. 
+<br />Enabling Git to sign commit with existing SSH key pair insted of GPG keys.
 <br />
 <br />
-AddKey+retieve:  <br/>
+Adding SSH Key Pair:  <br/>
 <img src="https://imgur.com/LS0x56t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Loading private key to the agent. Then, retreiving public key to be used. 
 <br />
 <br />
 Add Signers:  <br/>
