@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The objective of this project is to showcase the practical application of cryptographic keys in enhancing particular security measures. Focused on utilizing SSH Key pair in conjunction with OpenSSL key pair, the project aims to illustrate encryption and decryption techniques applied to a text file containing sensitive data. Additionally, to ensure data integrity, the project incorporates a Git commit mechanism. Through this, the project aims to provide a comprehensive demonstration of using public-key cryptographic keys for improving security. 
+The objective of this project is to showcase the practical application of asymmetric cryptography to demonstrate its uses for authentication, encryption, and integrity. This is to demonstrate real world uses of public and private keys. This project utilizes SSH Key pair and OpenSSL key pair, to encrypt and decrypt a text file containing sensitive data. Lastly, I utilized SSH key pair to configure a Git commit signing feature to ensure data integrity. These measures provide a comprehensive demonstration of using asymmetric encryption for improving different areas of security. 
 <br />
 
 <h2>Utilities Used</h2>
