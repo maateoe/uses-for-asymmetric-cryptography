@@ -19,10 +19,7 @@ The objective of this project is to showcase the practical application of asymme
 
 <p align="center">
 Genrating SSH Key Pair:<br/>
-<br/>
 <img src="https://imgur.com/MmXcNnM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-Using the rsa type key, I genreate a key pair that will be used later for registering Git signing.
 <br />
 <br />
 <br />
@@ -30,52 +27,45 @@ Using the rsa type key, I genreate a key pair that will be used later for regist
 Generating OpenSSL Key Pair:  <br/>
 <img src="https://imgur.com/7CNeLx9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Utilizing OpenSSL to generate a key pair that will be used encrypt
-<br />and decrypt a text file with a password.
+<br />
 <br />
 <br />
 <br />
 Encrypting Text File:  <br/>
 <img src="https://imgur.com/VtrIUyb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Using public key to encrypt file. The output will be an encrypted text file.
 <br />
 <br />
 <br />
 Decrypting Text File:  <br/>
 <img src="https://imgur.com/n2DpeVQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Using the generated private key to decrypt file. The output will be the decrypted text file.
 <br />
 <br />
 <br />
 Configuring Global User Credentials and Changing Signing Key Format:  <br/>
 <img src="https://imgur.com/ModrBu0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Configuring global email and name for Git repository. 
-<br />Enabling Git to sign commit with existing SSH key pair insted of GPG keys.
+<br />
 <br />
 <br />
 <br />
 Adding SSH Key Pair:  <br/>
 <img src="https://imgur.com/LS0x56t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Loading private key to the agent. Then, retreiving public key to be used in next step. 
 <br />
 <br />
 <br />
 Add Signers:  <br/>
 <img src="https://imgur.com/GxRkmzO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Setting the public key to be recognized to be as a valid key. Adds the key to a new file called 
-<br />'allowed signer' and will configure GPG signing for allowed SSH signer.
+<br />
 <br />
 <br />
 <br />
 Commit Sign Test:  <br/>
 <img src="https://imgur.com/TmNCHQI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Testing SSH singing by outputting a message to display. Name and Email are also displayed. 
 <br />
 <br />
 <br />
