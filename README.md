@@ -1,4 +1,4 @@
-<h1>Exploring Asymmetric Cryptography Uses for Encryption and Integrity in Git </h1>
+<h1>Exploring Asymmetric Cryptography Uses for Encryption and Integrity </h1>
 
 
 <h2>Description</h2>
