@@ -43,7 +43,7 @@ Decrypting Text File:  <br/>
 <br />
 <br />
 <br />
-Configuring Global User Credentials and Changing Signing Key Format:  <br/>
+Configuring Credentials and Changing Signing Key Format To SSH:  <br/>
 <img src="https://imgur.com/ModrBu0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -56,7 +56,7 @@ Adding SSH Key Pair:  <br/>
 <br />
 <br />
 <br />
-Add Signers:  <br/>
+Add Signers To Allowed Signers List:  <br/>
 <img src="https://imgur.com/GxRkmzO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
