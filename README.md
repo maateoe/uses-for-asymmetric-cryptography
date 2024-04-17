@@ -56,7 +56,7 @@ Adding SSH Key Pair:  <br/>
 <br />
 <br />
 <br />
-Add Signers To Allowed Signers List:  <br/>
+Add Key To Allowed Signers List:  <br/>
 <img src="https://imgur.com/GxRkmzO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
